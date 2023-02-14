@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1123,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new canine friend at this event.",
+      "location": "Dog Court",
+      "date": "January 17, 2023",
+      "time": "12:00",
+      "organizer": "Kay Nine"
+    },
+    {
+      "id": 1456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Strawberry Park",
+      "date": "March 11, 2023",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 1789,
+      "category": "sustainability",
+      "title": "Park Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Downtown City Park",
+      "date": "August 1, 2023",
+      "time": "11:00",
+      "organizer": "Ruby Red"
     }
   ]
 }
